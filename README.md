@@ -1,0 +1,2 @@
+# Palindromik Kelimeler
+ 
